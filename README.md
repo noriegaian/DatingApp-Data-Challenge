@@ -1,5 +1,5 @@
 # DatingApp-DataChallenge
-Exploring sample data from a mobile data app. Investigates several hypothetical case problems involving:
+Exploring sample data from a mobile dating app. Investigates several hypothetical case problems involving:
 - Data Preprocessing
 - EDA
 - Metric Evaluation
